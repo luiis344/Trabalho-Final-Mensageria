@@ -111,6 +111,3 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 7. E inicialize a classe mensageria application
 
-## **Contato**
-Caso tenha dúvidas ou sugestões, entre em contato pelo GitHub ou envie um e-mail para: **seuemail@exemplo.com**.
-
